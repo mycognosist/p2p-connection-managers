@@ -11,3 +11,4 @@ _Do you have resources you'd like to add to this list? Please submit a pull-requ
 - [SSB CONN](https://github.com/ssbc/ssb-conn): SSB plugin for establishing and managing peer connections
 - [discovery-swarm](https://github.com/mafintosh/discovery-swarm): A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find and connect to peers
 - [libp2p::swarm](https://docs.rs/libp2p/latest/libp2p/swarm/index.html): High-level network manager
+- [scuttlego peer_manager](https://github.com/planetary-social/scuttlego/blob/main/service/domain/peer_manager.go): Peer manager
