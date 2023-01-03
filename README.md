@@ -39,3 +39,8 @@ _Do you have resources you'd like to add to this list? Please submit a pull-requ
   - Connection tracker
   - [Secure Scuttlebutt](https://dev.scuttlebutt.nz/#/)
   - Go
+
+- [mostly-minimal-spanning-tree](https://github.com/RangerMauve/mostly-minimal-spanning-tree)
+  - MMST is used to create spanning trees in P2P networks while minimizing connections per node
+  - [Dat](https://dat-ecosystem.org/) /  hypercore
+  - JavaScript
